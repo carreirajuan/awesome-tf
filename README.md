@@ -86,7 +86,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Deep-Dive Terraform on Azure](https://link.springer.com/book/10.1007/978-1-4842-7328-9)
 - [Getting Started with Terraform, 2nd ed.](https://www.amazon.com/Getting-Started-Terraform-production-infrastructure/dp/1788623533/)
 - [HashiCorp Infrastructure Automation Certification Guide](https://www.amazon.com/HashiCorp-Infrastructure-Automation-Certification-Guide-ebook/dp/B092KM7LXC/)
-- [IaC starting with Terraform (Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
+- [IaC starting with Terraform (Korean)](https://web.archive.org/web/20240929012852/https://product.kyobobook.co.kr/detail/S000202478097)
 - [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)
 - [Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices)
 - [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook](https://github.com/antonbabenko/terraform-best-practices)
@@ -117,9 +117,9 @@ Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
 - [A Comprehensive Guide to Terraform](https://www.gruntwork.io/blog/a-comprehensive-guide-to-terraform) - Series of blog posts from the author of "Terraform: Up & Running" that guide the reader from beginning with Terraform to using it in the real world.
 - [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1) - Provisioning an EC2 instance.
 - [Hello, world: The Fargate/Terraform tutorial I wish I had](https://section411.com/2019/07/hello-world/) - Blog post describing setting up an ECS Fargate cluster from scratch
-- [Terraform Security Guide](https://sysdig.com/blog/terraform-security-best-practices/) - Blog post describing security best practices when working with Terraform
+- [Terraform Security Guide](https://web.archive.org/web/20260314204118/https://www.sysdig.com/blog/terraform-security-best-practices) - Blog post describing security best practices when working with Terraform
 - [Building a SaaS API? Don't Forget Your Terraform Provider](https://www.speakeasy.com/blog/build-terraform-providers) - Why you should write a terraform provider
-- [Complete Terraform Course in French (Free)](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/introduction/) – A comprehensive and free course in French to master Terraform, from beginner to advanced usage, with hands-on examples and best practices.
+- [Complete Terraform Course in French (Free)](https://web.archive.org/web/20251215114231/https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/introduction/) – A comprehensive and free course in French to master Terraform, from beginner to advanced usage, with hands-on examples and best practices.
 
 ### Writing Custom Providers
 
